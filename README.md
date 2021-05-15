@@ -5,6 +5,6 @@
 - 👀 I’m interested in Coding and Teaching.
 - 🌱 I’m currently Studying MCA.
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me ->
+- 📫 How to reach me ->                
 Instagram - www.instagram.com/aaditya.co  
-Twitter - www.twitter.com/aaditya.co
+Twitter - www.twitter.com/aadityadotco
