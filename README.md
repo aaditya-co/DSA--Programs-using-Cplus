@@ -6,5 +6,5 @@
 - 🌱 I’m currently Studying MCA.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me ->                
-Instagram - www.instagram.com/aaditya.co  
-Twitter - www.twitter.com/aadityadotco
+    Instagram - www.instagram.com/aaditya.co  
+    Twitter - www.twitter.com/aadityadotco
