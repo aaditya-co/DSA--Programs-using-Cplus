@@ -9,7 +9,7 @@ struct node
 
 void traversal(struct node *ptr)
 {
-    while (ptr != NULL)
+    while (ptr != NULL)/.
     {
         printf("Element : %d \n", ptr->data);
         ptr = ptr->next;
