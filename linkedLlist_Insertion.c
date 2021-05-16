@@ -82,30 +82,30 @@ int main()
     second->next = third;
     third->data = 20;
     third->next = NULL;
-    function call to display all element.
+    //function call to display all element.
     traversal(head);
 
-    printf("\nData Inserted At First---------\n");
-    //inserting data at First in linked List.
-    head = InsertAtFirst(head, 10);
+    // printf("\nData Inserted At First---------\n");
+    // //inserting data at First in linked List.
+    // head = InsertAtFirst(head, 10);
 
-    //Display updated data after insertion.
-    traversal(head);
+    // //Display updated data after insertion.
+    // traversal(head);
 
-    printf("\nData Inserted In Between at Index.---------\n");
+    // printf("\nData Inserted In Between at Index.---------\n");
 
-    head= InsertInBetween(head,30,3);
-    traversal(head);
+    // head= InsertInBetween(head,30,3);
+    // traversal(head);
 
-    printf("\nData Inserted at End.---------\n");
+    // printf("\nData Inserted at End.---------\n");
 
-    head= InsertAtEnd(head,35);
-    traversal(head);
+    // head= InsertAtEnd(head,35);
+    // traversal(head);
 
 
-    printf("\nData Inserted after given node.---------\n");
+    // printf("\nData Inserted after given node.---------\n");
 
-    head= InsertAfter(head,first,67);
-    traversal(head);
+    // head= InsertAfter(head,first,67);
+    // traversal(head);
 
 }
