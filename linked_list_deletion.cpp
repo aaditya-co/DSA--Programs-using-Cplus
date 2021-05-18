@@ -98,7 +98,7 @@ int main(){
     // traversal(head);
     // head = deleteAtEnd(head);
     // traversal(head);
-    head = deleteatValue(head,16);
-    traversal(head);
+    // head = deleteatValue(head,16);
+    // traversal(head);
 
 }
